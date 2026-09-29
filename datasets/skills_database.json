@@ -1,0 +1,58 @@
+{
+  "Programming": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "C++",
+    "C#",
+    "Ruby",
+    "PHP",
+    "Go",
+    "Rust",
+    "TypeScript",
+    "Kotlin",
+    "Swift",
+    "Scala",
+    "Perl",
+    "R"
+  ],
+  "Web Development": [
+    "HTML",
+    "CSS",
+    "React",
+    "Vue.js",
+    "Angular",
+    "Node.js",
+    "Django",
+    "Flask",
+    "REST API"
+  ],
+  "Data Science & Analytics": [
+    "Machine Learning",
+    "Deep Learning",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "Data Analysis",
+    "Statistics",
+    "Pandas",
+    "NumPy",
+    "SQL"
+  ],
+  "Cloud & DevOps": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "CI/CD",
+    "Git"
+  ],
+  "Soft Skills": [
+    "Leadership",
+    "Communication",
+    "Problem Solving",
+    "Teamwork",
+    "Project Management"
+  ]
+}
