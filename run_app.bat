@@ -32,5 +32,7 @@ if not exist "modules\pdf_generator.py" type nul > "modules\pdf_generator.py"
 :: Asset files
 if not exist "assets\style.css" type nul > "assets\style.css"
 
-echo Project structure created successfully!
+echo Project structure ready!
+echo Starting Skill Gap Analyzer...
+call .\.venv\Scripts\streamlit.exe run app.py
 pause
